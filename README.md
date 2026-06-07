@@ -1,6 +1,6 @@
 # Focus
 
-https://www.arifun.com
+[https://www.arifun.com](https://focus.arifun.com/)
 
 如你所见，就是一个简单的计时器。
 
