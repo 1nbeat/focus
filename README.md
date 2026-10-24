@@ -1,6 +1,6 @@
 # Focus
 
-[https://focus.arifun.com](https://focus.997icu.cn/)
+https://focus.997icu.cn
 
 如你所见，就是一个简单的计时器。
 
